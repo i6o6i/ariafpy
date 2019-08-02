@@ -1,7 +1,7 @@
 {
     "rpcaddr": "ws://localhost:6800/jsonrpc",
     "token": "12345",
-    "defaultoptions": [
+    "options": [
         {
             "dir": "/home/user/Downloads"
         }
