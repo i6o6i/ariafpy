@@ -3,7 +3,7 @@
     "token": "12345",
     "defaultoptions": [
         {
-            "dir": "/home/kkk/Downloads"
+            "dir": "/home/user/Downloads"
         }
     ]
 }
