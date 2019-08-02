@@ -1,0 +1,9 @@
+{
+    "rpcaddr": "ws://localhost:6800/jsonrpc",
+    "token": "12345",
+    "defaultoptions": [
+        {
+            "dir": "/home/kkk/Downloads"
+        }
+    ]
+}
